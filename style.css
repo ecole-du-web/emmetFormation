@@ -1,0 +1,81 @@
+body {
+/* couleur noire background ou color, bg#0 / c#0 */
+
+/* pour les couleurs qui se repetent c#f4 */
+
+/* pour les doubles, #fc0 */
+
+
+
+/* pour les positions, posa, posr, posf */
+
+
+/* width et height
+    p -> %
+    e -> em
+*/
+/* w100p */
+
+
+
+/* pour les positions, t30px */
+
+/* pour les displays, db, dib, di */
+
+
+/* pour margin et padding, m50px, p50px */
+
+/* m10-20 */
+
+
+/* fontfamily automatique de fonts connues, ffa, fft, ffv */
+
+
+/* pour !important, on rajoute !, p10! */
+
+
+/* Les webkits, wmso, -wmso-trf */
+
+
+
+/* Gradient lg */
+
+
+/* animation, anim- */
+
+
+
+/*----------------- NON DISPO SUR VS CODE -------------------- */
+
+/* monter une valeur alt + fleche haut / bas en ayant cliquer sur la valeur */
+/* pour baisser shift + ctrl + fleche haut / bas */
+/* pour baisser ou monter 10 par 10, shift + alt + fleche */
+
+
+/* f+, pour la police et la taille */
+
+
+
+/* bg+, pour un background complet (couleur, url, position, no-repeat)*/
+
+
+
+/* @f+ Pour une police personnalisée */
+
+
+
+/* bd+, pour border 1 px solid black */
+
+
+/* pour faire des dégradés lineaires */
+
+
+/* Pour faire vos custoom raccourcis, aller dans le fichier snippets.json */
+/* C:\Users\*votre nom d'utilisateur*\.atom\packages\emmet\node_modules\emmet\lib */
+/* N'oubliez pas d'aller dans les bonnes sections(css, html ...) */
+/* puis fermez et reouvrez votre éditeur, et voila ! */
+
+
+
+
+}
